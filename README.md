@@ -1,17 +1,16 @@
 # Тестовое задание на позицию Junior Backend Developer
 
 ### Необходимые пакеты npm
-    "@nestjs/common": "^8.0.0",
-    "@nestjs/config": "^1.0.1",
-    "@nestjs/core": "^8.0.0",
-    "@nestjs/platform-express": "^8.0.0",
-    "@nestjs/swagger": "^5.1.0",
-    "@nestjs/typeorm": "^8.0.2",
+    "@nestjs/common"
+    "@nestjs/config"
+    "@nestjs/core"
+    "@nestjs/platform-express"
+    "@nestjs/swagger"
+    "@nestjs/typeorm"
     
-    "@types/multer": "^1.4.7",
-    "swagger-ui-express": "^4.1.6",
-    "typeorm": "^0.2.37",
-
+    "@types/multer"
+    "swagger-ui-express"
+    "typeorm"
 ### Необходимое окружение
 - PostgreSQL
   - настроить конфигурацию в файле `.env`
@@ -34,3 +33,6 @@ TIP: подробное представление можно получить �
 |9|DELETE|/cats/img_delete/{id}|Удалить изображение кота по ID из URL|
 
 Примеры входных и выходных данных представлены изображениями и JSON в архиве `examples.zip`.
+
+Пример БД представлен на изображении ниже.
+![image](https://user-images.githubusercontent.com/54914800/136454849-25ebd2dc-977e-4c7d-b118-008dd8f97d1a.png)

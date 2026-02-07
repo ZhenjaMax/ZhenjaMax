@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/da503fab-5c34-471a-9670-af88e543cbd2" width="20%" alt="image">
 </p>
 
-**Creator of @civ6bot — Discord bots for Civilization VI easy game**
+**Creator of [@civ6bot](https://github.com/civ6bot) — Discord bots for Civilization VI easy game**
 
 ## Discord: ZhenjaMax#3594
 ## Telegram: @ZhenjaMax
